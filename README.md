@@ -68,8 +68,7 @@ This project analyzes 100,000+ ride bookings to provide actionable insights into
 - **Average Distance by Vehicle:**
   - Prime SUV: 9.06 km (highest)
   - Bike: 9.03 km
-  - Mini: 8.99 km<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/f2243a2c-b3ec-408a-a136-8e859674d3e1" />
-
+  - Mini: 8.99 km
   - E-Bike: 8.90 km (lowest)
 
 ### Cancellation Analysis
@@ -89,6 +88,21 @@ This project analyzes 100,000+ ride bookings to provide actionable insights into
 - **Customer Ratings:** Range from 3.61 to 3.70 across vehicle types
 - **Prime Sedan Ratings:** Max 4.9, Min 3.1 (driver rating)
 
+
+## 📈 Dashboard Highlights
+
+The project includes 5 interactive dashboards:
+1. **Overall Summary:** KPIs, booking trends, status breakdown
+          <img width="1249" height="687" alt="Screenshot (366)" src="https://github.com/user-attachments/assets/6c65806d-14e6-407e-a0ce-e7e1fe467180" />
+2. **Vehicle Analysis:** Performance metrics by vehicle type
+          <img width="1160" height="685" alt="Screenshot (367)" src="https://github.com/user-attachments/assets/7b37fb3f-8a12-412c-840d-a4775aaa883b" />
+   
+3. **Revenue Deep Dive:** Weekly trends, top customers, distance analysis
+          <img width="1232" height="666" alt="Screenshot (368)" src="https://github.com/user-attachments/assets/3a16cd51-2cd9-4f36-a36e-850bf99b8d32" />
+4. **Cancellation Analysis:** Driver vs customer cancellation patterns
+          <img width="1170" height="669" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/63699227-1f2c-4c74-98aa-e0ded8748133" />
+5. **Rating Dashboard:** Service quality metrics across vehicle types
+         <img width="1229" height="659" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/b4275cf3-9849-445c-8909-06ce02a8e9ce" />
 
 ## 💡 Recommendations
 
@@ -112,15 +126,6 @@ This project analyzes 100,000+ ride bookings to provide actionable insights into
 - **Database:** MySQL
 - **Visualization:** Power BI
 - **Analysis:** SQL , Python
-
-## 📈 Dashboard Highlights
-
-The project includes 5 interactive dashboards:
-1. **Overall Summary:** KPIs, booking trends, status breakdown
-2. **Vehicle Analysis:** Performance metrics by vehicle type
-3. **Revenue Deep Dive:** Weekly trends, top customers, distance analysis
-4. **Cancellation Analysis:** Driver vs customer cancellation patterns
-5. **Rating Dashboard:** Service quality metrics across vehicle types
 
 
 **Note:** All data is fictional and generated for analytical demonstration purposes. Real-world implementation would require data privacy compliance and additional business validation.
